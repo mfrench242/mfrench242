@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on coding an AI engine for the Diamond market
 - 📫 How to reach me martfren@yahoo.com
 - 😄 Pronouns: He, Him
-- ⚡ Fun fact: My friend Ram taught me to cook great subzee (vegetable dish) when I was in India.  Oh, and I created a robot that could learn in 1986 using BASIC.
+- ⚡ Fun facts: My friend Ram taught me to cook great subzee (vegetable dish) when I was in India.  I created a robot that could learn in 1986 using BASIC.
 
 <!---
 mfrench242/mfrench242 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
