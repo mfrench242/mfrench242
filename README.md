@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mfrench242
 - 👀 I’m interested in creating an AI engine to predict the market changes of Diamond Mining companies.
-- 🌱 I’m currently learning .Python, legal aspects of AI, accounting and AI applications thereof 
+- 🌱 I’m currently learning .Python, legal aspects of AI, accounting and applying AI to accounting software 
 - 💞️ I’m looking to collaborate on coding an AI engine for the Diamond market
 - 📫 How to reach me reitmetrique@gmail.com
 - 😄 Pronouns: He, Him
